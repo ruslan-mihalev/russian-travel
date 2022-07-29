@@ -1,2 +1,17 @@
 .tail-cover {
+    position: relative;
+    margin: 66px auto 0 auto;
+    max-width: fit-content;
+}
+
+@media screen and (min-width: 768px) {
+    .tail-cover {
+        margin: 90px auto 0 auto;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .tail-cover {
+        margin: 92px auto 0 auto;
+    }
 }

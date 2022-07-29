@@ -1,0 +1,12 @@
+.head-cover__pic {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+@media screen and (min-width: 1024px) {
+    .head-cover__pic {
+        width: 928px;
+        height: 580px;
+    }
+}

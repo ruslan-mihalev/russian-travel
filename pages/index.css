@@ -2,16 +2,24 @@
 @import url(../blocks/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__top/header__top.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__lang/header__lang.css);
-@import url(../blocks/header/__lang/_checked/header__lang_checked.css);
+@import url(../blocks/header/__lang-container/header__lang-container.css);
+@import url(../blocks/header/__lang-toggler/header__lang-toggler.css);
+@import url(../blocks/header/__lang-toggler/_checked/header__lang-toggler_checked.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
-@import url(../blocks/header/__cover/header__cover.css);
+@import url(../blocks/head-cover/head-cover.css);
+@import url(../blocks/head-cover/__pic/head-cover__pic.css);
+@import url(../blocks/head-cover/__hint/head-cover__hint.css);
 @import url(../blocks/content/content.css);
 @import url(../blocks/preamble/preamble.css);
 @import url(../blocks/gallery/gallery.css);
 @import url(../blocks/directions/directions.css);
 @import url(../blocks/tail-cover/tail-cover.css);
+@import url(../blocks/tail-cover/__pic/tail-cover__pic.css);
+@import url(../blocks/tail-cover/__text-layer/tail-cover__text-layer.css);
+@import url(../blocks/tail-cover/__title/tail-cover__title.css);
+@import url(../blocks/tail-cover/__subtitle/tail-cover__subtitle.css);
 @import url(../blocks/footer/footer.css);
 
