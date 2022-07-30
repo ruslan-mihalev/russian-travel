@@ -1,0 +1,17 @@
+.cover {
+    position: relative;
+    margin: 0 auto 64px auto;
+    max-width: fit-content;
+}
+
+@media screen and (min-width: 768px) {
+    .cover {
+        margin: 0 auto 88px auto;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cover {
+        margin: 0 auto 92px auto;
+    }
+}
