@@ -1,2 +1,15 @@
 .content {
+    margin: 0 0 66px 0;
+}
+
+@media screen and (min-width: 768px) {
+    .content {
+        margin: 0 0 90px 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .content {
+        margin: 0 0 92px 0;
+    }
 }
