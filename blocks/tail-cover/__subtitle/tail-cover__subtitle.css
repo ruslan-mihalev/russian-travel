@@ -7,7 +7,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     text-align: center;
     word-wrap: break-word;
 }
@@ -17,6 +17,6 @@
         width: 360px;
         margin: 32px 0 0 0;
         font-size: 18px;
-        line-height: 22px;
+        line-height: 1.22;
     }
 }

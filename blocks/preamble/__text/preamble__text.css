@@ -2,4 +2,15 @@
     margin: 0;
     padding: 0;
     color: #fff;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 1.63;
+}
+
+@media screen and (min-width: 1024px) {
+    .preamble__text {
+        max-width: 690px;
+    }
 }
