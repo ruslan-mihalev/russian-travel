@@ -1,2 +1,5 @@
 .directions__card-link-hint {
+    margin: 0;
+    padding: 0;
+    color: #fff;
 }

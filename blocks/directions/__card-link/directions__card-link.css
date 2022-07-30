@@ -1,2 +1,6 @@
 .directions__card-link {
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+    color: #fff;
 }
