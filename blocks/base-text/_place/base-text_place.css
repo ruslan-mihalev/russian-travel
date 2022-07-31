@@ -1,7 +1,4 @@
-.place__paragraph {
-    margin: 0;
-    padding: 0;
-    
+.base-text_place {
     color: #fff;
     font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
@@ -11,7 +8,7 @@
 }
 
 @media screen and (min-width: 1024px) {
-    .place__paragraph {
+    .base-text_place {
         font-size: 18px;
     }
 }

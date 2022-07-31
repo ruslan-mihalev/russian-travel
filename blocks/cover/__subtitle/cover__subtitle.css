@@ -2,12 +2,6 @@
     width: 288px;
     margin: 16px 0 0 0;
     padding: 0;
-    color: #fff;
-    font-family: 'Inter', Arial, sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.14;
     text-align: center;
     word-wrap: break-word;
 }
@@ -16,7 +10,5 @@
     .cover__subtitle {
         width: 360px;
         margin: 32px 0 0 0;
-        font-size: 18px;
-        line-height: 1.22;
     }
 }

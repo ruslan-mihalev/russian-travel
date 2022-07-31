@@ -1,5 +1,15 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/fonts/fonts.css);
+@import url(../blocks/base-title/base-title.css);
+@import url(../blocks/base-title/_lead/base-title_lead.css);
+@import url(../blocks/base-title/_intro/base-title_intro.css);
+@import url(../blocks/base-title/_place/base-title_place.css);
+@import url(../blocks/base-title/_cover/base-title_cover.css);
+@import url(../blocks/base-text/base-text.css);
+@import url(../blocks/base-text/_lead/base-text_lead.css);
+@import url(../blocks/base-text/_intro/base-text_intro.css);
+@import url(../blocks/base-text/_place/base-text_place.css);
+@import url(../blocks/base-text/_cover/base-text_cover.css);
 @import url(../blocks/list/list.css);
 @import url(../blocks/opacity-animation/opacity-animation.css);
 @import url(../blocks/page/page.css);
