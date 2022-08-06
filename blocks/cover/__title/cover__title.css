@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
-    word-wrap: break-word;
+    white-space: pre-line;
 }
 
 @media screen and (min-width: 768px) {
