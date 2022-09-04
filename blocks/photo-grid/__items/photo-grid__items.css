@@ -1,2 +1,26 @@
 .photo-grid__items {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 12px;
+}
+
+@media screen and (min-width: calc(320px * 2)) {
+    .photo-grid__items {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+    }
+}
+
+@media screen and (min-width: calc(320px * 3)) {
+    .photo-grid__items {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 14px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .photo-grid__items {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 16px;
+    }
 }
