@@ -9,3 +9,15 @@
         width: 340px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .place__image {
+        width: 440px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .place__image {
+        width: 460px;
+    }
+}
