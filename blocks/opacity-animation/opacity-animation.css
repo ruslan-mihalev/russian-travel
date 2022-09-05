@@ -1,8 +1,7 @@
 .opacity-animation {
-    transition: opacity .4s ease-out;
-  }
-  
-  .opacity-animation:hover {
-    opacity: .8;
-  }
-  
+  transition: opacity .3s ease-out;
+}
+
+.opacity-animation:hover {
+  opacity: .8;
+}
