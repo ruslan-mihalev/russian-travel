@@ -4,7 +4,7 @@
 
 
 В нем применены основные практики верстки сайтов, включающие:
-* [BEM] (https://ru.bem.info/)
+* [BEM](https://ru.bem.info/)
 * flex layout
 * grid layout
 * Padding top hack
