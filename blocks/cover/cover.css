@@ -1,16 +1,16 @@
 .cover {
-    margin: 0 auto 64px auto;
-    box-sizing: border-box;
+  margin: 0 0 66px 0;
+  box-sizing: border-box;
 }
 
 @media screen and (min-width: 768px) {
-    .cover {
-        margin: 0 auto 88px auto;
-    }
+  .cover {
+    margin: 0 0 90px 0;
+  }
 }
 
 @media screen and (min-width: 1024px) {
-    .cover {
-        margin: 0 auto 92px auto;
-    }
+  .cover {
+    margin: 0 0 92px 0;
+  }
 }
