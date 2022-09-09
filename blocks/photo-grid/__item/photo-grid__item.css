@@ -5,14 +5,14 @@
     object-position: center;
 }
 
-@media screen and (min-width: calc(352px + 16px + 16px)) {
+@media screen and (min-width: 384px) {
     .photo-grid__item {
         width: 352px;
         height: 264px;
     }
 }
 
-@media screen and (min-width: calc(288px + 288px + 12px + 16px + 16px)) {
+@media screen and (min-width: 620px) {
     .photo-grid__item {
         width: 288px;
         height: 216px;
