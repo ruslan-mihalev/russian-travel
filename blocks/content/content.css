@@ -1,16 +1,16 @@
 .content {
-  margin: 0 auto 64px auto;
+  margin: 0 0 64px 0;
   box-sizing: border-box;
 }
 
 @media screen and (min-width: 768px) {
   .content {
-    margin: 0 auto 88px auto;
+    margin: 0 0 88px 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .content {
-    margin: 0 auto 92px auto;
+    margin: 0 0 92px 0;
   }
 }
