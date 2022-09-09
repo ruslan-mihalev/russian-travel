@@ -1,11 +1,11 @@
-.base-text_cover {
+.base-text_type_cover {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.14;
 }
 
 @media screen and (min-width: 768px) {
-    .base-text_cover {
+    .base-text_type_cover {
         font-size: 18px;
         line-height: 1.22;
     }

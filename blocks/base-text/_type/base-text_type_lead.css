@@ -1,11 +1,11 @@
-.base-text_lead {
+.base-text_type_lead {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.25;
 }
 
 @media screen and (min-width: 768px) {
-    .base-text_lead {
+    .base-text_type_lead {
         font-size: 30px;
         line-height: 1.2;
     }
