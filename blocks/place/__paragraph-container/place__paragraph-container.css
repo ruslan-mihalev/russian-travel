@@ -1,9 +1,9 @@
-.place__container {
+.place__paragraph-container {
     padding: 0 16px;
 }
 
 @media screen and (min-width: 768px) {
-    .place__container {
+    .place__paragraph-container {
         padding: 0;
     }
 }
